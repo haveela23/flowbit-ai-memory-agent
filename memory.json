@@ -1,0 +1,17 @@
+{
+  "vendor": {
+    "Supplier GmbH": [
+      {
+        "key": "Leistungsdatum",
+        "value": {
+          "field": "serviceDate",
+          "mapTo": "12-09-2025"
+        },
+        "confidence": 0.5,
+        "lastUpdated": "2025-12-26T10:05:51.149Z"
+      }
+    ]
+  },
+  "corrections": [],
+  "resolutions": []
+}
